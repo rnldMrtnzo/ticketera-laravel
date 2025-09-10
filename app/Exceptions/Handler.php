@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 
 namespace App\Exceptions;
 
@@ -19,5 +19,4 @@ class Handler extends ExceptionHandler
             //
         });
     }
-}
 }
